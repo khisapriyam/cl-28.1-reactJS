@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "manse",
+      "email": "pkhisa771@gmail.com",
+      "cell": "12143",
+      "uname": "manse",
+      "gender": "Male",
+      "photo": "https://i.pinimg.com/originals/e2/c4/a8/e2c4a8eec883ed15d8e2b3d74085801a.jpg",
+      "id": 3
+    },
+    {
+      "name": "ck",
+      "email": "khisapriyam@gmail.com",
+      "cell": "9079",
+      "uname": "ck",
+      "gender": "Male",
+      "photo": "https://pbs.twimg.com/profile_images/593865905173434369/pQ1eEMfi_400x400.jpg",
+      "id": 4
+    },
+    {
+      "name": "minguk",
+      "email": "pkhisa771@gmail.com",
+      "cell": "43214",
+      "uname": "minguki",
+      "gender": "Female",
+      "photo": "https://pbs.twimg.com/media/B0i2obMCUAApfpS.jpg:large",
+      "id": 5
+    }
+  ]
+}
