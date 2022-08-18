@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,300&family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding : 0px;
+    font-family: roboto;
+}
+body{
+    margin: 200px;
+    background-color: #ccc;
+}
